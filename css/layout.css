@@ -24,3 +24,8 @@ li{
 	padding: 1em;
 	list-style: none;
 }
+
+img{
+	display: block;
+	clear: both;
+}
